@@ -1,4 +1,4 @@
-# An NLP workshop - Categorizing tweets into relevant or non-relevant
+# An NLP workshop - Categorizing tweets into relevant or non-relevant. Updtaed by ahish
 
 adapted from https://github.com/hundredblocks/concrete_NLP_tutorial.git
 
